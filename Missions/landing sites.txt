@@ -1,0 +1,62 @@
+
+  Site     Long_Name             Loc_Deg_S_Deg_E     Tile  Tile_Pos      StripB_Pos    Grey1&4_pos
+    0    South Pole          ( 90.000 , 000.000  )   3_3  (4000,4000)    {6100, 2500)  (6200,744)
+ FausB   Faustini Rim A      [ 87.894 ,  90.538 ]    4_3  [4644, 4000]   (12485,2560)
+ FausA   Faustini Rim B      [ 87.769 ,  94.731 ]    4_3  [5000, 4559]   (12843,3058)
+    7   Peak Near Shackleton [ 88.809 ,  123.000 ]   3_3  (7008,6019)    (9103, 4506)
+   1a   Connected Ridge      ( 89.498 , 222.000 )    3_3  [2967,5121]    (5071, 3622)
+   1b   Connecting Ridge Ext [ 89.294 ,  246.000 ]   3_3  [2022, 4868]   (4140, 3358)
+   1c   New Connect Ridge C  [ 89.534 ,  210.000 ]   3_3  (3295, 5224)   (5392, 3721)
+   1d   High spots Site1     [ 89.589 ,  186.000 ]   3_3  (2850, 5235)   (5951, 3737)
+  dg1   de Gerlache rim 1    [ 89.004 ,  263.000 ]   3_3  [ 997, 4341]   (3098, 2840)
+  dg2   de Gerlache rim 2    [ 88.666 ,  291.000 ]   3_3  [ 243, 2504]   (2341, 1003)
+   4a   Shackleton rim 4a    [ 89.774 ,  204.000 ]   3_3  [3715, 4626]   (5819, 3124)
+   4b   Shackleton rim 4b    [ 89.688 ,  197.000 ]   3_3  (3746, 4999)   (5816, 3403)
+      note: 4b is the typ. site 4 ref.
+ ------ not in strip B ---------
+ Malaport Massif             ( 85.984 ,  2.071   )   3_1  [4440, 3315]
+ Site06: Nobile rim 1        ( 85.235 ,  36.682  )   4_1  (6889, 3897)
+ Site06: Nobile rim 2        ( 85.235 ,  36.682  )   4_1  (6889, 3897)
+ Site23: Malapert massif     ( 88.02 ,  2.06   )     2_2  (9958, 3742)
+ Site20: Leibnitz beta plateau
+ Site20v2: Leibnitz beta plateau, extended boundaries
+ Site42: de Gerlache-Kocher massif
+ Haworth
+ Shoemaker
+ DM1: Amundsen rim
+ DM2: Nobile rim 2
+ SL2: de Gerlache rim
+ SL3: Connecting ridge extension
+ NPA: Cabeus exterior wall 1
+ NPB: Amundsen Rim
+ NPC: Idel'son L crater 1
+ NPD: Malapert crater 1
+ LM1: Shackleton Rim B
+ LM2: Shoemaker Rim A
+ LM3: Shoemaker Rim B
+ LM4: Shoemaker Rim C
+ LM5: Shoemaker Rim D
+ LM6: Shoemaker Rim E
+ LM8: Shoemaker Rim F
+ 
+ Gateway 2024 Defined Target Sites
+ 
+   Site     Long_Name             Loc_Deg_S_Deg_E
+    0    South Pole          ( 90.000 , 000.000  )
+ FausB   Faustini Rim A      [ 87.894 ,  90.538 ]
+ FausA   Faustini Rim B      [ 87.769 ,  94.731 ]
+    7   Peak Near Shackleton [ 88.809 ,  123.000 ]
+   1a   Connected Ridge      ( 89.498 , 222.000 )
+   1b   Connecting Ridge Ext [ 89.294 ,  246.000 ]
+   1c   New Connect Ridge C  [ 89.534 ,  210.000 ]
+   1d   High spots Site1     [ 89.589 ,  186.000 ]
+  dg1   de Gerlache rim 1    [ 89.004 ,  263.000 ]
+  dg2   de Gerlache rim 2    [ 88.666 ,  291.000 ]
+   4a   Shackleton rim 4a    [ 89.774 ,  204.000 ]
+   4b   Shackleton rim 4b    [ 89.688 ,  197.000 ]
+      note: 4b is the typ. site 4 ref.
+ ------ not in strip B ---------
+ Malaport Massif             ( 85.984 ,  2.071   )
+ Site06: Nobile rim 1        ( 85.235 ,  36.682  )
+ Site06: Nobile rim 2        ( 85.235 ,  36.682  )
+ Site23: Malapert massif     ( 88.02 ,  2.06   )
